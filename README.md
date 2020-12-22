@@ -24,4 +24,5 @@
 - 프로젝트 발표 영상 - https://drive.google.com/file/d/1tl1bLN6cnTP0I3ZLqeQBkRTejBAH3JAI/view
 <hr/>
 
+프로젝트 진행 당시 Git으로 관리하지 않아 프로젝트 종료 후 결과물 정리.
 
